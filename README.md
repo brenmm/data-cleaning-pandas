@@ -1,7 +1,7 @@
 # Proyecto-1
 # Data cleaning &amp; wrangling
 
-![shark](images/shark.png)
+![shark](../images/shark.png)
 
 El objetivo de este proyecto es limpiar un archivo de Kaggle sobre el ataque de tiburones 🦈
 
